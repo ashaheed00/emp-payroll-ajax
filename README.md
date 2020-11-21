@@ -1,3 +1,3 @@
 # emp-payroll-ajax
 
-### UC2_AjaxDemo
+### UC3_AjaxDemoUsingPromise
