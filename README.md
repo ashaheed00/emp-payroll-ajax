@@ -1,3 +1,3 @@
 # emp-payroll-ajax
 
-### UC1_AsyncNatureOfJS
+### UC2_AjaxDemo
