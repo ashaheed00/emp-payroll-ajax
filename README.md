@@ -1,3 +1,3 @@
 # emp-payroll-ajax
 
-### UC3_AjaxDemoUsingPromise
+### UC4_TestRESTwithJSONServer_UsingPromise
